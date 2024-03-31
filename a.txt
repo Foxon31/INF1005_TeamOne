@@ -1,0 +1,2 @@
+ssh inf1005-dev@35.212.131.130
+sudo mysql -u root -p
